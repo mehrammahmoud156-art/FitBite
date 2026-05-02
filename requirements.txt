@@ -1,1 +1,6 @@
+psycopg
+google-generativeai
+groq
+pillow
+reportlab
 
